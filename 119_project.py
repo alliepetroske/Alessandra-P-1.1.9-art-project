@@ -150,6 +150,9 @@ for _ in range(4):
     painter.forward(1300)
     painter.right(90)
 
+
+
+#make shooting star
 painter.end_fill()
 painter.penup()
 painter.pencolor("white")
